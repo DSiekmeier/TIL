@@ -11,7 +11,7 @@ Things I learned. A collection of concise notes about things I learn day to day.
 - [Show commits since a specific tag](src/git_commits_since_tag.md)
 - [Show a pretty graphical log](src/git_pretty_graphical_log.md)
 - [Show a pretty graphical log](src/git_pretty_graphical_log.md)
-- [Squash the last n commits using interactive rebase](src/git_squash_last_n_commits_with_rebase_i.md)
+- [Squash the last *n* commits using interactive rebase](src/git_squash_last_n_commits_with_rebase_i.md)
 
 ## Visual Studio Code
 

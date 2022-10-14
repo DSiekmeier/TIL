@@ -1,10 +1,10 @@
-# Git: Squash the last n commits using interactive rebase
+# Git: Squash the last *n* commits using interactive rebase
 
-I confess: when I wanted to squash the last *n* commits of a repository, for example the last two for fixing a type, then I did something like that:
+I confess: when I wanted to squash the last *n* commits of a repository, for example the last two for fixing a typo, then I usually did something like that:
 
 ```bash
 git log --oneline -n 10
-# -> manually copy the correct commit hash using the mouse and paste it to the next command
+# -> manually copy the correct commit hash using the mouse and paste it into the next command
 git rebase --interactive <commit>
 ```
 
