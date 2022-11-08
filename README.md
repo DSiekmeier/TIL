@@ -5,6 +5,7 @@ Things I learned. A collection of concise notes about things I learn day to day.
 ## C++
 
 - [Private inheritance](src/cpp_private_inheritance.md)
+- [Rule of three](src/cpp_rule-of-three.md)
 
 ## Git
 
