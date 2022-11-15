@@ -1,11 +1,27 @@
-# TIL
+# Things I learned<!-- omit in toc -->
 
-Things I learned. A collection of concise notes about things I learn day to day.
+A collection of concise notes about things I learn day to day. 
+
+Currently counting **6 entries** in **2 categories** and **3 subcategories**.
+
+# Table of contents<!-- omit in toc -->
+
+- [Programming Languages](#programming-languages)
+	- [C++](#c)
+- [Applications - Software Development](#applications---software-development)
+	- [Git](#git)
+	- [Visual Studio Code](#visual-studio-code)
+
+<!-- start of content -->
+
+# Programming Languages
 
 ## C++
 
 - [Private inheritance](src/cpp_private_inheritance.md)
 - [Rule of three](src/cpp_rule-of-three.md)
+
+# Applications - Software Development
 
 ## Git
 
