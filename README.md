@@ -2,7 +2,7 @@
 
 A collection of concise notes about things I learn day to day. 
 
-Currently counting **7 entries** in **3 categories** and **4 sub categories**.
+Currently counting **7 entries** in **3 categories** and **4 subcategories**.
 
 # Table of contents<!-- omit in toc -->
 
