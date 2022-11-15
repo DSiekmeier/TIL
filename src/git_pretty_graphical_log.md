@@ -11,4 +11,4 @@ git log --all --decorate --oneline --graph
 # References
 
 - [Git Documentation](https://www.git-scm.com/docs/git-log)
-- [Anwser on Stackoverflow](https://stackoverflow.com/a/35075021)
+- [Answer on Stackoverflow](https://stackoverflow.com/a/35075021)
