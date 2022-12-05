@@ -2,7 +2,7 @@
 
 A collection of concise notes about things I learn day to day. 
 
-Currently counting **7 entries** in **3 categories** and **4 subcategories**.
+Currently counting **8 entries** in **4 categories** and **5 sub categories**.
 
 # Table of contents<!-- omit in toc -->
 
@@ -13,6 +13,8 @@ Currently counting **7 entries** in **3 categories** and **4 subcategories**.
 - [Applications - Software Development](#applications---software-development)
 	- [Git](#git)
 	- [Visual Studio Code](#visual-studio-code)
+- [Linux](#linux)
+	- [Commandline tools](#commandline-tools)
 
 <!-- start of content -->
 
@@ -40,3 +42,9 @@ Currently counting **7 entries** in **3 categories** and **4 subcategories**.
 ## Visual Studio Code
 
 - [Set C++ version for IntelliSense](src/vscode_set_cpp_version_intellisense.md)
+
+# Linux
+
+## Commandline tools
+
+- [Convert spaces to tabs and vice versa](src/linuxcli_convert_tabs_and_spaces.md)
