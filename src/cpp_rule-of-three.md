@@ -14,5 +14,5 @@ Using the `default` keyword is generally problematic if non-class types are mana
 
 # References
 
-- [ccpreference.com](https://en.cppreference.com/w/cpp/language/rule_of_three)
+- [cppreference.com](https://en.cppreference.com/w/cpp/language/rule_of_three)
 - Breymann, U. (2018). Der C++-Programmierer (5. Aufl.). Hanser.
