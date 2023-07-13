@@ -2,12 +2,13 @@
 
 A collection of concise notes about things I learn day to day. 
 
-Currently counting **8 entries** in **4 categories** and **5 sub categories**.
+Currently counting **9 entries** in **4 categories** and **6 sub categories**.
 
 # Table of contents<!-- omit in toc -->
 
 - [Programming Languages](#programming-languages)
 	- [C++](#c)
+	- [Rust](#rust)
 - [Software Development Frameworks](#software-development-frameworks)
 	- [GoogleTest](#googletest)
 - [Applications - Software Development](#applications---software-development)
@@ -24,6 +25,10 @@ Currently counting **8 entries** in **4 categories** and **5 sub categories**.
 
 - [Private inheritance](src/cpp_private_inheritance.md)
 - [Rule of three](src/cpp_rule-of-three.md)
+
+## Rust
+
+- [Immutable variables and constants](src/rust_immutables-variables-and-constants.md)
 
 # Software Development Frameworks
 
