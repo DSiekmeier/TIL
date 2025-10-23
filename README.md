@@ -2,7 +2,7 @@
 
 A collection of concise notes about things I learn day to day. 
 
-Currently counting **9 entries** in **4 categories** and **6 sub categories**.
+Currently counting **10 entries** in **4 categories** and **6 sub categories**.
 
 # Table of contents<!-- omit in toc -->
 
@@ -43,6 +43,7 @@ Currently counting **9 entries** in **4 categories** and **6 sub categories**.
 - [Show commits since a specific tag](src/git_commits_since_tag.md)
 - [Show a pretty graphical log](src/git_pretty_graphical_log.md)
 - [Squash the last *n* commits using interactive rebase](src/git_squash_last_n_commits_with_rebase_i.md)
+- [Get the latest commit hash from a remote](src/git_get_latest_hash_from_remote.md)
 
 ## Visual Studio Code
 
